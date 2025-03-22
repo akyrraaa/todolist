@@ -194,8 +194,8 @@ td, th {
     word-wrap: break-word;
     overflow-wrap: break-word;
     margin-bottom: 20px;
-    position: fixed;
     flex-direction: column;
+    margin-top: 20px;
 }
 
 .completed-task {
